@@ -4,3 +4,5 @@ shopping_list = {
     
 }
 print('Lista zakupów')
+
+#proba

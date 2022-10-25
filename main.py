@@ -6,3 +6,4 @@ shopping_list = {
 print('Lista zakupów')
 
 #proba
+#zmiana 2
